@@ -1,2 +1,1 @@
 # Lógica-de-predicados
-i
