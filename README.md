@@ -1,1 +1,1 @@
-# L-gica-de-predicados
+# Lógica-de-predicados
